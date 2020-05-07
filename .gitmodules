@@ -1,6 +1,3 @@
 [submodule "womentor-ios"]
 	path = womentor-ios
 	url = https://github.com/cooperjones13/womentor-ios
-[submodule "lab-01-tabs-and-pickers"]
-	path = lab-01-tabs-and-pickers
-	url = /Users/cooperjones/Documents/iOS Apps/lab-01-tabs-and-pickers
