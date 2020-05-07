@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>eventName</key>
+		<string>T9Hacks</string>
+		<key>eventLocation</key>
+		<string>ATLAS Roser Center</string>
+		<key>eventDateTime</key>
+		<date>2020-02-25T02:00:00Z</date>
+		<key>infoLinkURL</key>
+		<string>https://t9hacks.org/home</string>
+		<key>imageName</key>
+		<string>t9</string>
+	</dict>
+    <dict>
+        <key>eventName</key>
+        <string>Theta Tau Rush</string>
+        <key>eventLocation</key>
+        <string>Engineering Center Lobby</string>
+        <key>eventDateTime</key>
+        <date>2020-01-25T02:00:00Z</date>
+        <key>infoLinkURL</key>
+        <string>http://www.etagamma.org</string>
+        <key>imageName</key>
+        <string>thetaTau</string>
+    </dict>
+</array>
+</plist>

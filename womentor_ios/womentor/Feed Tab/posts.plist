@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>001</key>
+	<dict>
+		<key>timestamp</key>
+		<date>2019-05-25T15:59:46Z</date>
+		<key>userColor</key>
+		<string>red</string>
+		<key>postContent</key>
+		<string>postContent01</string>
+		<key>userFullName</key>
+		<string>Jeff Bezos</string>
+		<key>userUsername</key>
+		<string>bezos</string>
+	</dict>
+	<key>002</key>
+	<dict>
+		<key>timestamp</key>
+		<date>2020-03-25T15:59:46Z</date>
+		<key>userColor</key>
+		<string>purple</string>
+		<key>postContent</key>
+		<string>Hodor. Hodor hodor, hodor. Hodor hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor; hodor hodor hodor. Hodor. Hodor hodor; hodor hodor - hodor, hodor, hodor hodor. Hodor, hodor. Hodor. Hodor, hodor hodor hodor; hodor hodor; hodor hodor hodor! Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor...</string>
+		<key>userFullName</key>
+		<string>Hodor</string>
+		<key>userUsername</key>
+		<string>hodor</string>
+	</dict>
+	<key>003</key>
+	<dict>
+		<key>timestamp</key>
+		<date>2019-03-26T15:59:46Z</date>
+		<key>userColor</key>
+		<string>green</string>
+		<key>postContent</key>
+		<string>Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ivysaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Venusaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmander Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmeleon Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+		<key>userFullName</key>
+		<string>Ash Ketchum</string>
+		<key>userUsername</key>
+		<string>gottacatchemall</string>
+	</dict>
+	<key>004</key>
+	<dict>
+		<key>timestamp</key>
+		<date>2019-03-26T15:59:46Z</date>
+		<key>userColor</key>
+		<string>green</string>
+		<key>postContent</key>
+		<string>Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ivysaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Venusaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmander Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmeleon Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+		<key>userFullName</key>
+		<string>Ash Ketchum</string>
+		<key>userUsername</key>
+		<string>gottacatchemall</string>
+	</dict>
+	<key>005</key>
+	<dict>
+		<key>timestamp</key>
+		<date>2019-03-26T15:59:46Z</date>
+		<key>userColor</key>
+		<string>green</string>
+		<key>postContent</key>
+		<string>Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ivysaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Venusaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmander Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmeleon Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+		<key>userFullName</key>
+		<string>Ash Ketchum</string>
+		<key>userUsername</key>
+		<string>gottacatchemall</string>
+	</dict>
+	<key>006</key>
+	<dict>
+		<key>timestamp</key>
+		<date>2019-03-26T15:59:46Z</date>
+		<key>userColor</key>
+		<string>green</string>
+		<key>postContent</key>
+		<string>Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ivysaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Venusaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmander Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmeleon Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+		<key>userFullName</key>
+		<string>Ash Ketchum</string>
+		<key>userUsername</key>
+		<string>gottacatchemall</string>
+	</dict>
+	<key>007</key>
+	<dict>
+		<key>timestamp</key>
+		<date>2019-03-26T15:59:46Z</date>
+		<key>userColor</key>
+		<string>green</string>
+		<key>postContent</key>
+		<string>Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ivysaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Venusaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmander Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmeleon Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+		<key>userFullName</key>
+		<string>Ash Ketchum</string>
+		<key>userUsername</key>
+		<string>gottacatchemall</string>
+	</dict>
+	<key>008</key>
+	<dict>
+		<key>timestamp</key>
+		<date>2019-03-26T15:59:46Z</date>
+		<key>userColor</key>
+		<string>green</string>
+		<key>postContent</key>
+		<string>Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ivysaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Venusaur Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmander Lorem ipsum dolor sit amet, consectetur adipiscing elit. Charmeleon Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+		<key>userFullName</key>
+		<string>Ash Ketchum</string>
+		<key>userUsername</key>
+		<string>gottacatchemall</string>
+	</dict>
+</dict>
+</plist>
