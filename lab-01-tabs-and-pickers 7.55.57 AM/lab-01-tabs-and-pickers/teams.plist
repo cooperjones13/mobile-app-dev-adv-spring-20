@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sport</key>
+		<string>Baseball</string>
+		<key>teams</key>
+		<array>
+			<string>New York Yankees</string>
+			<string>Boston Red Sox</string>
+			<string>Cleveland Indians</string>
+			<string>Colorado Rockies</string>
+			<string>San Francisco Giants</string>
+			<string>Oakland Athletics</string>
+			<string>San Diego Padres</string>
+			<string>Los Angeles Dodgers</string>
+			<string>Los Angeles Angels</string>
+			<string>Texas Rangers</string>
+			<string>Arizona Diamondbacks</string>
+			<string>Seattle Mariners</string>
+			<string>Kansas City Royals</string>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>sport</key>
+		<string>Football</string>
+		<key>teams</key>
+		<array>
+			<string>New York Giants</string>
+			<string>Kansas City Chiefs</string>
+			<string>New England Patriots</string>
+			<string>Denver Broncos</string>
+			<string>Cleveland Browns</string>
+			<string>San Francisco 49ers</string>
+			<string>Los Angeles Chargers </string>
+			<string>Seattle Seahawks</string>
+		</array>
+	</dict>
+	<dict>
+		<key>sport</key>
+		<string>Hockey</string>
+		<key>teams</key>
+		<array>
+			<string>New York Rangers</string>
+			<string>New Jersey Devils</string>
+			<string>Philadelphia Flyers</string>
+			<string>Colorado Avalanche</string>
+		</array>
+	</dict>
+	<dict>
+		<key>sport</key>
+		<string>Soccer</string>
+		<key>teams</key>
+		<array>
+			<string>New York Red Bulls</string>
+			<string>New York City FC</string>
+			<string>LA Galaxy</string>
+			<string>Colorado Rapids</string>
+			<string>San Jose Earthquakes</string>
+		</array>
+	</dict>
+</array>
+</plist>
